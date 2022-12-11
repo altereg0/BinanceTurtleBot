@@ -1,6 +1,8 @@
 # Binance-bot
 #### Python bot for trading on the Binance cryptocurrency exchange.
 
+Copy from  https://github.com/Reidmcc/Binance-bot
+
 There are two strategies, cross-pair arbitrage and breakout trend trading. 
 
 #### Cross-pair arbitrage: 
